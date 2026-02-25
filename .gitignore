@@ -1,0 +1,51 @@
+#-----------------------------
+# CI4 Default Folders
+#-----------------------------
+
+/vendor/
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+/writable/debugbar/*
+
+# Keep writable folder but ignore contents
+!/writable/index.html
+!/writable/.htaccess
+
+#-----------------------------
+# Environment File
+#-----------------------------
+.env
+
+#-----------------------------
+# Composer
+#-----------------------------
+composer.lock
+
+#-----------------------------
+# IDE Files
+#-----------------------------
+/.vscode/
+/.idea/
+*.sublime-project
+*.sublime-workspace
+
+#-----------------------------
+# OS Files
+#-----------------------------
+.DS_Store
+Thumbs.db
+
+#-----------------------------
+# PHPUnit
+#-----------------------------
+phpunit.xml
+.phpunit.result.cache
+
+#-----------------------------
+# Node (if using npm)
+#-----------------------------
+/node_modules/
+package-lock.json
+yarn.lock
