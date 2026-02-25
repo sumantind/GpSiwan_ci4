@@ -2797,7 +2797,8 @@ section {
 #logoTextLine1 {
   display: inline-block;
   font-size: 80%;
-  font-family: 'Yanone Kaffeesatz', sans-serif !important;
+  /* font-family: 'Yanone Kaffeesatz', sans-serif !important; */
+  font-family: cursive;
 }
 
 #logoTextLine2 {
