@@ -4,42 +4,43 @@
     <div class="col-md-10 col-md-offset-1 text-justify">
       <div class="row" style="margin-top:10px;">
         <div class="col-md-6">
-          <img src="<?= base_url('assets/img/faculty/principal.jpg') ?>" alt=""><br>
+          <img src="<?= base_url('assets/img/faculty/praveen_pachauri_img1.jpg') ?>"><br>
           <span class="text-center"><strong>Dr. Praveen Pachauri<br>Principal, Govt. Polytechnic Siwan</strong></span>
         </div>
         <div class="col-md-6">
           <h2>Principal's Message</h2>
-          <p>At Government Polytechnic Siwan, diversity is celebrated and cherished. Our vibrant campus is home to students from diverse backgrounds, cultures, and perspectives. By interacting with peers from different walks of life, you'll gain a broader understanding of the world and develop invaluable interpersonal skills that are essential for success in today's globalized society. Whether you're interested in pursuing further education, launching your own startup, or making a difference in your community, Government Polytechnic Siwan provides a supportive environment where you can explore your passions and turn your dreams into reality. </p>
-          <p>We invite you to join the Government Polytechnic Siwan family as a student. With access to a wide range of co-curricular, extracurricular activities, clubs, and organizations, you'll have ample opportunities to discover your interests, hone your talents, and make a positive impact on the world.</p>
+          <p>
+            It gives me immense pride and pleasure to welcome you to Government Polytechnic Siwan, an institution committed to nurturing talent, fostering innovation, and shaping the future of young minds. Established with a vision to strengthen technical education in Bihar, our institute stands as a beacon of opportunity for aspiring engineers who wish to transform their potential into purposeful achievement.
+          </p>
+          <p>
+            At Government Polytechnic Siwan, we believe that education is not merely the acquisition of knowledge, but the development of character, competence, and confidence. In an era defined by rapid technological advancement and global interconnectedness, our responsibility extends beyond imparting technical skills. We strive to cultivate critical thinking, creativity, ethical values, and a lifelong passion for learning among our students.
+          </p>          
         </div>
       </div>
       <div class="row">
         <div class="col-md-12">
-          <h2>About Principal</h3>
-          <p>Dr Praveen Pachauri is an academician of eminence in technical education with twenty-five long teaching experience. He has also been the Director at U.P. Institute of Design, Noida (A constituent Institute of Dr. A P J Abdul Kalam Technical University, Lucknow under Ministry of Technical Education, Government of Uttar Pradesh) and Director (Projects and Planning) at Noida Institute of Engineering and Technology (NIET), Noida.</p>
-          <p>He is the recipient of "Young Researcher Award" from Institution of Engineers (India) and “Er. Nivesh Kumar Varshney, Meerut Memorial Award for UP/ Uttarakhand State Best Engineering College Teacher for the year 2020” from Indian Society for Technical Education (ISTE).</p>
-          <p>He has accomplished many prestigious assignments and has been part of various Government Bodies, such as:
-          <ul style="padding-left:30px;clear:both;">
-            <li>Hon’ble Governor of Rajasthan and Chancellor's Nominee in the Board of Management of Mohan Lal Sukhadia University, Udaipur (Udaipur University).</li>
-            <li>Member of the Board of Studies (BOS) at Dr APJ Abdul Kalam Technical University (AKTU), Lucknow.</li>
-            <li>Mentor for implementation of Outcome Based Education (OBE) and NBA accreditation at four AKTU affiliated institutes.</li>
-            <li>Advisor for MSME approved Technology Business Incubator (TBI) at Maharshi University of Information Technology, Lucknow. Mentoring many Startups companies.</li>
-            <li>Associate Dean (PG studies and Research), Dr APJ Abdul Kalam Technical University, Lucknow.</li>
-            <li>Member, Research Advisory Committee (RAC) of Mohanlal Sukhadia University, Udaipur. (Nominated by Hon’ble Vice Chancellor).</li>
-            <li>Member of Governing Body of Noida Institute of Engineering and Technology, Greater Noida.</li>
-          </ul>
+          <p>
+            Our academic framework is grounded in the philosophy of learning by doing. With modern laboratories, workshops, and industry-aligned curricula, we ensure that students gain practical exposure and real-world insights from the very beginning of their academic journey. Our dedicated faculty members serve not only as educators but as mentors-guiding, motivating, and inspiring students to achieve excellence in every sphere of life.
           </p>
-          <strong>In regards of his Academic Qualifications:</strong>
-          <ul style="padding-left:30px;clear:both;">
-            <li>He has completed B.Tech, M.Tech and Ph.D. in Mechanical Engineering from Aligarh Muslim University.</li>
-            <li>He has completed more than a dozen courses from different IITs/IISc and Foreign universities for Continuous learning.</li>
-          </ul>
-          <strong>Academic and Research Contributions</strong>
-          <ul style="padding-left:30px;clear:both;">
-            <li>He has authored 56 Research Papers, 05 Books, 02 Book Chapter, and 04 Patents</li>
-            <li>He has successfully guided 03 Ph.D scholars and 02 are in progress. </li>
-            <li>He has delivered 28 invited talks in National/ International Conferences and have organised more than a dozen Conferences/FDPs/STTPs.</li>
-          </ul>
+          <p>
+            We are equally committed to bridging the gap between academia and industry. Through collaborations, internships, skill development initiatives, and career guidance programs, we prepare our students to meet professional challenges with competence and confidence. Our goal is to produce not just diploma holders, but responsible citizens and dynamic professionals who contribute meaningfully to society and the nation.
+          </p>
+          <p>
+            The vibrant campus life at Government Polytechnic Siwan reflects the diversity, inclusivity, and unity that define our institutional ethos. Here, students are encouraged to explore their talents, participate in co-curricular and extracurricular activities, and develop leadership qualities that will serve them throughout their lives.
+          </p>
+          <p>
+            I firmly believe that the true measure of an institution lies in the success and integrity of its students. Let us work together-with determination, discipline, and dedication, to create a culture of excellence that elevates both the individual and the community.
+          </p>
+          <p>
+            I warmly invite you to be a part of the Government Polytechnic Siwan family and embark on a journey of learning, growth, and transformation. Together, let us build a future filled with innovation, opportunity, and achievement.
+          </p>
+          <p>With best wishes,</p>
+          <img src="<?= base_url('assets/img/faculty/paravenn_pachauri_sign.jpg') ?>">
+          <address>
+            (Dr Praveen Pachauri)<br/>
+              &nbsp;Principal<br/>
+              &nbsp;Government Polytechnic Siwan
+          </address>
         </div>
       </div>
     </div>

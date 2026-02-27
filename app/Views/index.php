@@ -618,11 +618,4 @@
   </section>
   <!-- end section1 -->
   
-  
-
- <?php $bgimg = base_url('assets/img/footer_top_strip.jpg'); ?>
-<section class="section4 text-center" style="background-image:url(<?= $bgimg ?>?>);  height: 9px;; padding:2px">
-  
-  </section>
-
  <?= view('partials/footer') ?>

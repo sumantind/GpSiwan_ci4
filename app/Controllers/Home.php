@@ -12,13 +12,29 @@ class Home extends BaseController
     {
         return view('history');
     }
+    public function about_institute(): string
+    {
+        return view('about-institute');
+    }
+    public function intake_of_the_institute(): string
+    {
+        return view('intake_of_the_institute');
+    }
+    public function about_the_principal() : string
+    {
+        return view('about_the_principal');
+    }
     public function principal_message(): string
     {
         return view('principal_message');
     }
-    public function vision_and_mission(): string
+    public function vision_mission_and_POs(): string
     {
-        return view('vision_and_mission');
+        return view('vision_mission_and_pos');
+    }
+    public function administration_and_nodal_officers() : string
+    {
+        return view('administration_and_nodal_officers');
     }
     public function academic_outrich(): string
     {
@@ -51,5 +67,25 @@ class Home extends BaseController
     public function training_and_placement(): string
     {
         return view('training_and_placement');
+    }
+    public function mechanical_engineering()
+    {
+       return view('department/mechanical_engineering');
+    }
+    public function civil_engineering()
+    {
+       return view('department/civil_engineering.php');
+    }
+    public function electrical_engineering()
+    {
+       return view('department/electrical_engineering');
+    }
+    public function electronics_engineering()
+    {
+        return view('department/electronics_engineering');
+    }
+    public function cse_engineering()
+    {
+       return view('department/computer_science_and_engineering.php');
     }
 }

@@ -45,6 +45,17 @@
                             </a>
                         </td>
                     </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>SBTE General Rules for Diploma Students </td>
+                        <td> <a href="<?= base_url('assets/document/SBTE-General-Rules-for-Diploma-Students.pdf') ?>" download="SBTE-General-Rules-for-Diploma-Students">
+                                <button type="button" class="btn btn-info btn-sm">
+                                    <span class="glyphicon glyphicon-download-alt"></span>
+                                    Download File
+                                </button>
+                            </a>
+                        </td>
+                    </tr>
                 </tbody>
             </table>
         </div>

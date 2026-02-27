@@ -1,7 +1,7 @@
 <?= view('partials/header') ?>
 <div class="container">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1 text-justify">
+    <div class="col-md-10 col-md-offset-1 text-justify" style="font-size:16px;">
       <h3>Rules & Regulations</h3>
       <strong>1. Admission</strong>
       <p>The number of seats in each branch of diploma program for which admission is to be made is decided by AICTE.</p>

@@ -48,7 +48,7 @@
 					<a href="<?= site_url('/rti') ?>" title="RTI">RTI</a>
 					<a href="<?= site_url('/rule_book') ?>" title="Rule Book">Rule Book</a>
 					<a href="<?= site_url('/anti_ragging') ?>" title="Anti Ragging">Anti Ragging</a>
-					<a href="#" title="inquiry">Inquriy Form</a>
+					<a href="#myModal" data-toggle="modal" data-target="#myModal" title="inquiry">Inquriy Form</a>
 					<!-- Trigger the modal with a button -->
 					<!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>-->
 
@@ -98,7 +98,7 @@
 
 
 					<!-- <a href="#" data-toggle="modal" data-target="#myModal1" title="Grievance">Grievance </a> -->
-					<a href="#">Grievance </a>
+					<a href="#myModal1" data-toggle="modal" data-target="#myModal1">Grievance </a>
 
 					<!-- Modal -->
 					<div id="myModal1" class="modal fade" role="dialog">
@@ -147,11 +147,6 @@
 									<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 								</div>
 							</div>
-
-
-
-
-
 						</div>
 					</div>
 
@@ -193,10 +188,6 @@
 								</div>
 							</div>
 
-
-
-
-
 						</div>
 					</div>
 				</div>
@@ -229,7 +220,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-10 col-xs-9 mbvwcnt">
 				<!-- <center> -->
-				<a href="https://www.ngpp.ac.in/" class="logo-right pull-left">
+				<a href="<?=  site_url('/') ?>" class="logo-right pull-left">
 					<span id="logoTextLine1">Government Polytechnic, Siwan</span><br>
 					<span id="logoTextLine2" class="pull-left">( Science, Technology &amp; Technical Education Department, Govt. Of Bihar )</span>
 				</a>
@@ -243,16 +234,16 @@
 								Important Links <i class="fa fa-angle-down"></i>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="#modal-inquiry-form" data-toggle="modal"><i class="fa fa-question-circle-o"></i> Inquiry Form</a></li>
-								<li><a href="#modalOpenGrievance" data-toggle="modal"><i class="fa fa-bullhorn"></i> Open Grievance</a></li>
-								<li><a href="#modalTrackGrievance" data-toggle="modal"><i class="fa fa-ticket"></i> Track Grievance</a></li>
-								<li><a href="#modalFeedback" data-toggle="modal"><i class="fa fa-comment"></i> Feedback</a></li>
-								<li><a href="https://www.ngpp.ac.in/student-search/"><i class="fa fa-search"></i> Search Student</a></li>
+								<li><a href="#myModal" data-toggle="modal" data-target="#myModal"><i class="fa fa-question-circle-o"></i> Inquiry Form</a></li>
+								<li><a href="#myModal1" data-toggle="modal"><i class="fa fa-bullhorn"></i> Open Grievance</a></li>
+								<!-- <li><a href="#modalTrackGrievance" data-toggle="modal"><i class="fa fa-ticket"></i> Track Grievance</a></li> -->
+								<li><a href="#myModal2" data-toggle="modal"><i class="fa fa-comment"></i> Feedback</a></li>
+								<li><a href="#"><i class="fa fa-search"></i> Search Student</a></li>
 							</ul>
 						</li>
-						<li><a href="https://www.ngpp.ac.in/alumni-2/our-alumni/" target="_blank">ALUMNI</a></li>
-						<li class="hidden-xs"><a href="/facilities-services/placement/" target="_blank">Placement</a></li>
-						<li><a href="https://www.ngpp.ac.in/approval/aicte-approval/" target="_blank">AICTE</a></li>
+						<li><a href="#">ALUMNI</a></li>
+						<li class="hidden-xs"><a href="<?= site_url('training_and_placement') ?>" >Placement</a></li>
+						<li><a href="<?= site_url('aicte') ?>">AICTE</a></li>
 					</ul>
 				</div>
 			</div>
@@ -283,11 +274,15 @@
 								</li>
 								<li><a href="#">About Us</a>
 									<ul class="dropdown">
-										<li><a href="<?= site_url('/history') ?>">History</a></li>
-										<li><a href="<?= site_url('/principal_message') ?>">Principal's Message</a></li>
-										<li><a href="<?= site_url('/vision_and_mission') ?>">Vision &amp; Mission</a></li>
-										<li><a href="<?= site_url('/academic_outrich') ?>">Academic Outreach</a></li>
-										<li><a href="<?= site_url('/rules_and_regulations') ?>">Rules</a></li>
+										<!-- <li><a href="<?= site_url('/about/history') ?>">History</a></li> -->
+										<li><a href="<?= site_url('/about/about-institute') ?>">About the institute</a></li>
+										<li><a href="<?= site_url('/about/intake-of-the-institute') ?>">Intake of the institute</a></li>
+										<li><a href="<?= site_url('/about/vision-mission-and-po') ?>">Vision, Mission &amp; POs</a></li>
+										<li><a href="<?= site_url('/about/about-the-principal') ?>">About the principal</a></li>
+										<li><a href="<?= site_url('/about/principal_message') ?>">Principal's Message</a></li>
+										<li><a href="<?= site_url('/about/administration-and-nodal-officers') ?>">Administration and Nodal Officers</a></li>
+										<li><a href="<?= site_url('/about/academic_outrich') ?>">Academic Outreach</a></li>
+										<li><a href="<?= site_url('/about/rules_and_regulations') ?>">Rules</a></li>
 									</ul>
 								</li>
 								<li><a href="#">Academic</a>
@@ -297,13 +292,11 @@
 								</li>
 								<li><a href="#">Department</a>
 									<ul class="dropdown">
-
-										<li><a href="#">Civil Engineering</a></li>
-										<li><a href="#">Mechanical Engineering</a></li>
-										<li><a href="#">Electrical Engineering</a></li>
-										<li><a href="#">Electronics Engineering</a></li>
-										<li><a href="#">Computer Science & Engineering</a></li>
-										<li><a href="#"> Science & Humanities</a></li>
+										<li><a href="<?= site_url('/department/mechanical-engineering') ?>">Mechanical Engineering</a></li>
+										<li><a href="<?= site_url('department/civil-engineering') ?>">Civil Engineering</a></li>
+										<li><a href="<?= site_url('department/electrical-engineering') ?>">Electrical Engineering</a></li>
+										<li><a href="<?= site_url('department/electronics-engineering') ?>">Electronics Engineering</a></li>
+										<li><a href="<?= site_url('department/computer-science-and-engineering') ?>">Computer Science & Engineering</a></li>
 									</ul>
 								</li>
 								<li><a href="#">Facilities</a>

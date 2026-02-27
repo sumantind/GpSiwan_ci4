@@ -4,7 +4,7 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-10 col-md-offset-1 text-justify">
+		<div class="col-md-10 col-md-offset-1 text-justify" style="font-size: 16px;">
 			<h3>Examination</h3>
 			<p>Each Student shall take the respective examinations conducted by College/ SBTE Patna, Government of Bihar as per the following rules:</p>
 			<p>
