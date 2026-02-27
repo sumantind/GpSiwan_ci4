@@ -215,12 +215,14 @@
 	<div class="container-fluid" style="position: relative;">
 		<div class="row">
 			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-3" style="display:inline">
-				<img src="<?= base_url('assets/img/logo/gpSiwan.jpg') ?>" height="100" width="100" class="mbvwimg">&nbsp;
+				<a href="<?= site_url('/') ?>">
+					<img src="<?= base_url('assets/img/logo/gpSiwan.jpg') ?>" height="100" width="100" class="mbvwimg">&nbsp;
+				</a>
 
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-10 col-xs-9 mbvwcnt">
 				<!-- <center> -->
-				<a href="<?=  site_url('/') ?>" class="logo-right pull-left">
+				<a href="<?= site_url('/') ?>" class="logo-right pull-left">
 					<span id="logoTextLine1">Government Polytechnic, Siwan</span><br>
 					<span id="logoTextLine2" class="pull-left">( Science, Technology &amp; Technical Education Department, Govt. Of Bihar )</span>
 				</a>
@@ -242,7 +244,7 @@
 							</ul>
 						</li>
 						<li><a href="#">ALUMNI</a></li>
-						<li class="hidden-xs"><a href="<?= site_url('training_and_placement') ?>" >Placement</a></li>
+						<li class="hidden-xs"><a href="<?= site_url('training_and_placement') ?>">Placement</a></li>
 						<li><a href="<?= site_url('aicte') ?>">AICTE</a></li>
 					</ul>
 				</div>
@@ -251,17 +253,6 @@
 
 	</div>
 
-	<!-- <div class="container-fluid hidden-lg">
-        <div class="col-md-4">
-			 <img src="<?= base_url('assets/img/Logo%20English%20N.png') ?>" >&nbsp;
-		</div>
-		<div class="col-md-4">
-			   <center> <img src="<?= base_url('assets/img/logo1_sm.png') ?>" ></center>
-		</div>
-		<div class="col-md-4">
-				 <center><img src="<?= base_url('assets/img/Logo%20hindi%20N.png') ?>" > </center>
-		</div>
-    </div> -->
 	<header class="header">
 		<div class="container-fluid">
 			<div class="site-header clearfix">
@@ -270,24 +261,23 @@
 					<div id="nav" class="right">
 						<div class="container-fluid clearfix" style="padding-right: 0px !important; padding-left: 0px !important;">
 							<ul id="jetmenu" class="jetmenu blue">
-								<li class="active"><a href="<?= site_url('home/index') ?>">Home</a>
+								<li class="active"><a href="<?= site_url('/') ?>">Home</a>
 								</li>
 								<li><a href="#">About Us</a>
 									<ul class="dropdown">
 										<!-- <li><a href="<?= site_url('/about/history') ?>">History</a></li> -->
 										<li><a href="<?= site_url('/about/about-institute') ?>">About the institute</a></li>
-										<li><a href="<?= site_url('/about/intake-of-the-institute') ?>">Intake of the institute</a></li>
 										<li><a href="<?= site_url('/about/vision-mission-and-po') ?>">Vision, Mission &amp; POs</a></li>
 										<li><a href="<?= site_url('/about/about-the-principal') ?>">About the principal</a></li>
 										<li><a href="<?= site_url('/about/principal_message') ?>">Principal's Message</a></li>
 										<li><a href="<?= site_url('/about/administration-and-nodal-officers') ?>">Administration and Nodal Officers</a></li>
-										<li><a href="<?= site_url('/about/academic_outrich') ?>">Academic Outreach</a></li>
-										<li><a href="<?= site_url('/about/rules_and_regulations') ?>">Rules</a></li>
 									</ul>
 								</li>
 								<li><a href="#">Academic</a>
 									<ul class="dropdown">
-										<li><a href="<?= site_url('home/examination') ?>">Examination</a></li>
+										<li><a href="<?= site_url('/rules_and_regulations') ?>">Rules and Regulations</a></li>
+										<li><a href="<?= site_url('/examination') ?>">Examination</a></li>
+										<li><a href="<?= site_url('/academic_outrich') ?>">Academic Outreach</a></li>
 									</ul>
 								</li>
 								<li><a href="#">Department</a>

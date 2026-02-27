@@ -16,10 +16,6 @@ class Home extends BaseController
     {
         return view('about-institute');
     }
-    public function intake_of_the_institute(): string
-    {
-        return view('intake_of_the_institute');
-    }
     public function about_the_principal() : string
     {
         return view('about_the_principal');
