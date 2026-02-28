@@ -158,7 +158,7 @@
 
 							</ul>
 						</marquee>
-						<a href="<?= site_url('home/view_all') ?>">View All</a>
+						<a href="<?= site_url('/') ?>">View All</a>
 
 					</div>
 				</div>
@@ -585,7 +585,7 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4">
-				<div class="boxDataHeader" style="border-bottom: 1px solid ;padding: 14px;font-size: 20px;border-top: 5px solid #6e1a98;;margin-top: 70px;">
+				<div class="boxDataHeader" style="border-bottom: 1px solid ;padding: 8px;font-size: 20px;border-top: 5px solid #6e1a98;;margin-top: 20px;">
 					<i class="fa fa-bars"></i> Important Links
 				</div>
 				<div class="boxDataContent">
