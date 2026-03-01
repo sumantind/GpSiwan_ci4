@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-md-offset-1 text-justify" style="font-size:16px;">
-            <h1>Administration and nodal officers</h1>
+            <h1>Administration and Nodal Officers</h1>
             <div class="table-responsice">
                 <table class="table table-bordered table-hover">
                     <thead>

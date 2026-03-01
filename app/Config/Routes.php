@@ -16,6 +16,7 @@ $routes->group('about',function($routes){
     $routes->get('administration-and-nodal-officers','Home::administration_and_nodal_officers');
 });
 
+$routes->get('admission', 'Home::admission');
 $routes->get('rules_and_regulations', 'Home::rules_and_regulations');
 $routes->get('/examination', 'Home::examination');
 $routes->get('/academic_outrich', 'Home::academic_outrich');
@@ -24,6 +25,7 @@ $routes->get('/rti', 'Home::rti');
 $routes->get('/rule_book', 'Home::rule_book');
 $routes->get('/anti_ragging', 'Home::anti_ragging');
 $routes->get('/training_and_placement', 'Home::training_and_placement');
+
 $routes->group('department', function($routes) {
     $routes->get('mechanical-engineering', 'Home::mechanical_engineering');
     $routes->get('electrical-engineering', 'Home::electrical_engineering');

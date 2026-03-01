@@ -2874,8 +2874,10 @@ ul.news-demo-down-auto li, ul.newsbox li {
 
 .image-box {
   height: 180px;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
 }
 .gallery-img.panel-body {
   width: 100%;
@@ -2886,6 +2888,12 @@ ul.news-demo-down-auto li, ul.newsbox li {
 }
 .link-box:hover img {
     transform: scale(1.2);
+}
+
+.link-box a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
 }
 
 

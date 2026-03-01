@@ -36,6 +36,10 @@ class Home extends BaseController
     {
         return view('academic_outrich');
     }
+    public function admission(): string
+    {
+        return view('admission');
+    }
     public function rules_and_regulations(): string
     {
         return view('rules_and_regulations');

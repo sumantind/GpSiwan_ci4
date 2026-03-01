@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-md-offset-1 text-justify">
-            <h1>About the institute</h1>
+            <h1>About the Institute</h1>
             <div style="padding-left: 5px;">
                 <p>
                     Set against a backdrop of verdant landscapes and tranquil surroundings, Government Polytechnic Siwan stands proudly at Bawandih Village, Chainpur, approximately 30 kilometers from Siwan Railway Station. Established in 2018 under the visionary Seven Nishchay Programme of the Hon’ble Chief Minister, Government of Bihar, the institute functions under the aegis of the Department of Science, Technology and Technical Education, Government of Bihar. It was conceived as a flagship initiative to expand access to quality technical education and enhance the employability of youth across the region.
@@ -25,46 +25,6 @@
                 <p>
                     We warmly welcome aspiring learners to join the Government Polytechnic Siwan fraternity. With a rich blend of academic rigor, co-curricular dynamism, and extracurricular engagement through clubs and institutional initiatives, the campus offers abundant avenues for holistic development. Here, potential is discovered, talents are refined, and futures are shaped with purpose and pride.
                 </p>
-            </div>
-
-            <h1>Intake of the institute</h1>
-            <div class="table-responsive">
-                <table class="table table-bordered table-hover">
-                    <thead>
-                        <tr>
-                            <th>S.No</th>
-                            <th>Programme</th>
-                            <th>Approved Intake</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1. </td>
-                            <td>Diploma in Civil Engineering</td>
-                            <td>120</td>
-                        </tr>
-                        <tr>
-                            <td>2. </td>
-                            <td>Diploma in Computer Science & Engineering</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>3. </td>
-                            <td>Diploma in Electrical Engineering</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>4. </td>
-                            <td>Diploma in Electronics Engineering</td>
-                            <td>60</td>
-                        </tr>
-                        <tr>
-                            <td>5. </td>
-                            <td>Diploma in Mechanical Engineering</td>
-                            <td>60</td>
-                        </tr>
-                    </tbody>
-                </table>
             </div>
         </div>
     </div>

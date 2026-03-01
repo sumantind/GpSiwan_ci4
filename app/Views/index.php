@@ -101,61 +101,41 @@
 			<div class="panel-body">
 				<div class="row">
 					<div class="col-xs-12">
-
-
 						<marquee direction="up" scrollamount="3" height="500" onmouseover="this.stop();" onmouseout="this.start();">
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>6. Chapter-06_GAD <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>5. POSH_GAD_BIH_2014 <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>4. Bihar Government Servants Rules <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>3. POSH_Rule_english and hindi <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>2. Sexual-Harassment-at-Workplace-Act_gazatte <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>1. SH Act_Hindi+MWCD <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-19 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>Internal Complaint committe for SHe-Box <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-08-12 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>NATS Recruitment Result 2025 <a href="#" download>Download</a></li>
-
-
 							</ul>
 
 							<ul class="news-demo-down-auto">
 								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-08-04 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>NATS Vacancy Walkin Interview on 07 Aug 2025 <a href="#" download>Download</a></li>
-
-
 							</ul>
 						</marquee>
 						<a href="<?= site_url('/') ?>">View All</a>
@@ -202,7 +182,7 @@
 
 					<div class="col-md-6">
 						<img src="<?= base_url('assets/img/ministers/CM_NitishKumar.jpg'); ?>"
-							alt="CM_nitishKumar" class="img-fluid img-circle center-block"><br>
+							alt="CM_nitishKumar" class="img-fluid  center-block"><br>
 						<span class="d-block">
 							Nitish Kumar, Hon'ble Chief Minister
 						</span>
@@ -210,7 +190,7 @@
 
 					<div class="col-md-6">
 						<img src="<?= base_url('assets/img/ministers/S&T_SunilKumar.jpg'); ?>"
-							alt="ST_SunilKumar" class="img-fluid img-circle center-block"><br>
+							alt="ST_SunilKumar" class="img-fluid  center-block"><br>
 						<span class="d-block">
 							Sri Sunil Kumar, Hon'ble Minister Science & Technology
 						</span>
@@ -219,19 +199,19 @@
 				</div>
 				<div class="row text-center">
 
-					<div class="col-md-6">
-						<img src="<?= base_url('assets/img/faculty/praveen_pachauri_img1.jpg'); ?>"
-							alt="praveen_pachauri_img1" class="img-fluid img-circle center-block"><br>
+				<div class="col-md-6">
+						<img src="<?= base_url('assets/img/ministers/AhmadMahmood_director_dstte.jpg'); ?>"
+							alt="AhmadMahmood_director_dstte" class="img-fluid  center-block"><br>
 						<span class="d-block">
-							Dr. Praveen Pachauri, Principal, Govt. Polytechnic Siwan
+							Ahmad Mahmood, I.A.S, Additional Secretary-Cum-Director Of DSTTE
 						</span>
 					</div>
 
 					<div class="col-md-6">
-						<img src="<?= base_url('assets/img/ministers/AhmadMahmood_director_dstte.jpg'); ?>"
-							alt="AhmadMahmood_director_dstte" class="img-fluid img-circle center-block"><br>
+						<img src="<?= base_url('assets/img/faculty/praveen_pachauri_img1.jpg'); ?>"
+							alt="praveen_pachauri_img1" class="img-fluid  center-block"><br>
 						<span class="d-block">
-							Ahmad Mahmood, I.A.S, Additional Secretary-Cum-Director Of DSTTE
+							Dr. Praveen Pachauri, Principal, Govt. Polytechnic Siwan
 						</span>
 					</div>
 
@@ -263,34 +243,55 @@
 
 <section class="section1">
 	<div class="container-fluid clearfix" style="background-color:#6e1a98;">
+		<h3 style="color:#fff;">Important Links</h3>
 		<div class=" col-lg-12 col-md-12 col-sm-12 clearfix" data-effect="slide-left">
-			<nav class="portfolio-filter"></nav>
+			<!-- <nav class="portfolio-filter"></nav> -->
 
 			<div class="portfolio-centered">
 				<div class="recentitems portfolio" id="linkBoxWrapper">
 					<div class="row">
 
-						<div class="col-sm-3 link-box">
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//state.bihar.gov.in/socialwelfare/CitizenHome.html','_blank')" style="cursor:pointer;">
 							<div class="panel panel-default">
-								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/reasearch_innovation.jpg') ?>');"></div>
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/swdLogo.jpeg') ?>');"></div>
 								<div class="panel-footer">
-									<h4>Research Innovation</h4>
-									<p>Research Innovation is an important activity in the any institution…</p>
+									<h4>Social Welfare Department</h4>
+									<p>Social Welfare Department, is an important Department of the state…</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-sm-3 link-box">
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//bpsm.bihar.gov.in/Assets2019/AssetDetails.aspx?P1=2&P2=28&P3=18&P4=1','_blank')" style="cursor:pointer;">
 							<div class="panel panel-default">
-								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/Skill_development.jpg') ?>');"></div>
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/bed.jpg') ?>');"></div>
 								<div class="panel-footer">
-									<h4>Skill Development Mission</h4>
-									<p>The objective of this Skill Certification Scheme is to enable…</p>
+									<h4>Bihar Education department</h4>
+									<p>Bihar is a land of wisdom. The Department of Education…</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-sm-3 link-box">
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//bpsm.bihar.gov.in/Assets2019/AssetDetails.aspx?P1=2&P2=28&P3=18&P4=1','_blank')" style="cursor:pointer;">
+							<div class="panel panel-default">
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/dstte.jpg') ?>');"></div>
+								<div class="panel-footer">
+									<h4>DSTTE, Bihar</h4>
+									<p>Department of Science & Technology…</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//bceceboard.bihar.gov.in/','_blank')" style="cursor:pointer;">
+							<div class="panel panel-default">
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/bcece.png') ?>');"></div>
+								<div class="panel-footer">
+									<h4>BCECE</h4>
+									<p>BCECEB conducts competitive examinations and counsellings…</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//www.aicte-india.org/','_blank')" style="cursor:pointer;">
 							<div class="panel panel-default">
 								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/AICTE_rectangle.png') ?>');"></div>
 								<div class="panel-footer">
@@ -300,7 +301,29 @@
 							</div>
 						</div>
 
-						<div class="col-sm-3 link-box">
+
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//nptel.ac.in/','_blank')" style="cursor:pointer;">
+							<div class="panel panel-default">
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/Swayam-Nptel.png') ?>');"></div>
+								<div class="panel-footer">
+									<h4>NPTEL</h4>
+									<p>NPTEL is an Indian e-learning platform for university-level…</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//sbte.bihar.gov.in/','_blank')" style="cursor:pointer;">
+							<div class="panel panel-default">
+								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/sbte.png') ?>');"></div>
+								<div class="panel-footer">
+									<h4>SBTE</h4>
+									<p>SBTE is a governing body for polytechnic institutes…</p>
+								</div>
+							</div>
+						</div>
+
+						
+						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//swayam.gov.in/','_blank')" style="cursor:pointer;">
 							<div class="panel panel-default">
 								<div class="panel-body image-box" style="background-image:url('<?= base_url('assets/img/logo/SWAYAM_300x147.png') ?>');"></div>
 								<div class="panel-footer">
@@ -388,7 +411,7 @@
 										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-25</span>
 										</div>
 									</li>
-									
+
 								</ul>
 								<ul class="newsbox">
 									<li class="news-item" style="padding: 10px;">
@@ -396,7 +419,7 @@
 										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-27</span>
 										</div>
 									</li>
-									
+
 								</ul>
 								<ul class="newsbox">
 									<li class="news-item" style="padding: 10px;">
@@ -404,7 +427,7 @@
 										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2024-07-04</span>
 										</div>
 									</li>
-									
+
 								</ul>
 								<a href="#" class="btn btn-default">View More <i class="fa fa-double-angle-right"></i></a>
 
@@ -435,47 +458,6 @@
 					</div>
 				</div>
 				<div class="clearfix"></div>
-				<!-- <div class="text-justify">
-					<h1>Intake of the institute</h1>
-					<div class="table-responsive">
-						<table class="table table-bordered table-hover">
-							<thead>
-								<tr>
-									<th>S.No</th>
-									<th>Programme</th>
-									<th>Approved Intake</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>1. </td>
-									<td>Diploma in Civil Engineering</td>
-									<td>120</td>
-								</tr>
-								<tr>
-									<td>2. </td>
-									<td>Diploma in Computer Science & Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>3. </td>
-									<td>Diploma in Electrical Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>4. </td>
-									<td>Diploma in Electronics Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>5. </td>
-									<td>Diploma in Mechanical Engineering</td>
-									<td>60</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div> -->
 			</div>
 			<!-- end content -->
 			<div class="col-md-4" style="margin-top: 80px;padding: 7px;border-top: solid 5px #6e1a98;">
@@ -519,70 +501,11 @@
 					</div>
 				</div>
 
-				<!-- <div class="boxDataHeader" style="border-bottom: 1px solid ;padding: 14px;font-size: 20px;border-top: 5px solid #6e1a98;;margin-top: 70px;">
-					<i class="fa fa-bars"></i> Important Links
-				</div>
-				<div class="boxDataContent">
-					<ul class="list-quick-links">
-
-						<i class="fa fa-angle-double-right"></i> <a href="https://state.bihar.gov.in/socialwelfare/CitizenHome.html" target="_">Social Welfare Dept. Bihar</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://bpsm.bihar.gov.in/Assets2019/AssetDetails.aspx?P1=2&P2=28&P3=18&P4=1" target="_">Education Dept. Bihar</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://dst.gov.in/bihar" target="_">DST, Bihar</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://state.bihar.gov.in/main/CitizenHome.html" target="_">Bihar Government</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://bceceboard.bihar.gov.in/" target="_">BCECEB</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://www.aicte-india.org/" target="_">All India Council for Technical Education (AICTE)</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://nptel.ac.in/" target="_">NPTEL</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://bpsc.bihar.gov.in/" target="_">Bihar Public Service Commission</a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://sbte.bihar.gov.in/" target="_">SBTE, Patna </a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://swayam.gov.in/" target="_">Swyam </a><br>
-						<i class="fa fa-angle-double-right"></i> <a href="https://nats.education.gov.in/" target="_">NATS </a>
-					</ul>
-				</div> -->
 			</div>
 		</div>
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-lg-8 col-md-8 col-sm-8 clearfix">
-				<div class="text-justify">
-					<h1>Intake of the institute</h1>
-					<div class="table-responsive">
-						<table class="table table-bordered table-hover">
-							<thead>
-								<tr>
-									<th>S.No</th>
-									<th>Programme</th>
-									<th>Approved Intake</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>1. </td>
-									<td>Diploma in Civil Engineering</td>
-									<td>120</td>
-								</tr>
-								<tr>
-									<td>2. </td>
-									<td>Diploma in Computer Science & Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>3. </td>
-									<td>Diploma in Electrical Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>4. </td>
-									<td>Diploma in Electronics Engineering</td>
-									<td>60</td>
-								</tr>
-								<tr>
-									<td>5. </td>
-									<td>Diploma in Mechanical Engineering</td>
-									<td>60</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
+				
 			</div>
 			<div class="col-lg-4 col-md-4 col-sm-4">
 				<div class="boxDataHeader" style="border-bottom: 1px solid ;padding: 8px;font-size: 20px;border-top: 5px solid #6e1a98;;margin-top: 20px;">
@@ -605,7 +528,7 @@
 					</ul>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<!-- end container -->
 </section>
@@ -667,11 +590,11 @@
 <!-- end section -->
 
 <div id="imageModal" class="custom-modal">
-    <span class="close-btn">&times;</span>
+	<span class="close-btn">&times;</span>
 
-    <span class="nav1 prev">&#10094;</span>
-    <img class="modal-content" id="modalImage">
-    <span class="nav1 next">&#10095;</span>
+	<span class="nav1 prev">&#10094;</span>
+	<img class="modal-content" id="modalImage">
+	<span class="nav1 next">&#10095;</span>
 </div>
 
 
@@ -747,72 +670,72 @@
 </script>
 
 <script>
-$(document).ready(function(){
+	$(document).ready(function() {
 
-    var images = $('.gallery-img');
-    var placed_stu_images = $('.placed_student');
-    var currentIndex;
-	var current_index_pls;
+		var images = $('.gallery-img');
+		var placed_stu_images = $('.placed_student');
+		var currentIndex;
+		var current_index_pls;
 
-    images.click(function(){
-        currentIndex = $(this).data('index');
-		current_index_pls = NaN;
-        showImage(currentIndex);
-        $('#imageModal').fadeIn();
-    });
+		images.click(function() {
+			currentIndex = $(this).data('index');
+			current_index_pls = NaN;
+			showImage(currentIndex);
+			$('#imageModal').fadeIn();
+		});
 
-	placed_stu_images.click(function(){
-        current_index_pls = $(this).data('index');
-		currentIndex = NaN;
-        showPlacedStudent(current_index_pls);
-        $('#imageModal').fadeIn();
-    });
+		placed_stu_images.click(function() {
+			current_index_pls = $(this).data('index');
+			currentIndex = NaN;
+			showPlacedStudent(current_index_pls);
+			$('#imageModal').fadeIn();
+		});
 
-    function showImage(index){
-        var src = images.eq(index).attr('src');
-        $('#modalImage').attr('src', src);
-    }
+		function showImage(index) {
+			var src = images.eq(index).attr('src');
+			$('#modalImage').attr('src', src);
+		}
 
-	function showPlacedStudent(index){
-        var src = placed_stu_images.eq(index).attr('src');
-        $('#modalImage').attr('src', src);
-    }
+		function showPlacedStudent(index) {
+			var src = placed_stu_images.eq(index).attr('src');
+			$('#modalImage').attr('src', src);
+		}
 
-    $('.next').click(function(){
-        currentIndex = (currentIndex + 1) % images.length;
-        showImage(currentIndex);
+		$('.next').click(function() {
+			currentIndex = (currentIndex + 1) % images.length;
+			showImage(currentIndex);
 
-		// console.log("G:"+currentIndex);
+			// console.log("G:"+currentIndex);
 
-		current_index_pls = (current_index_pls + 1) % placed_stu_images.length;
-        showPlacedStudent(current_index_pls);
+			current_index_pls = (current_index_pls + 1) % placed_stu_images.length;
+			showPlacedStudent(current_index_pls);
 
-		// console.log("PLS:"+current_index_pls);
-    });
+			// console.log("PLS:"+current_index_pls);
+		});
 
-    $('.prev').click(function(){
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        showImage(currentIndex);
+		$('.prev').click(function() {
+			currentIndex = (currentIndex - 1 + images.length) % images.length;
+			showImage(currentIndex);
 
-		// console.log("G:"+currentIndex);
+			// console.log("G:"+currentIndex);
 
-		current_index_pls = (current_index_pls - 1 + placed_stu_images.length) % placed_stu_images.length;
-        showPlacedStudent(current_index_pls);
+			current_index_pls = (current_index_pls - 1 + placed_stu_images.length) % placed_stu_images.length;
+			showPlacedStudent(current_index_pls);
 
-		// console.log("PLS:"+current_index_pls);
-    });
+			// console.log("PLS:"+current_index_pls);
+		});
 
-    $('.close-btn').click(function(){
-        $('#imageModal').fadeOut();
-    });
+		$('.close-btn').click(function() {
+			$('#imageModal').fadeOut();
+		});
 
-    $(document).keydown(function(e){
-        if(e.keyCode == 37) $('.prev').click(); // left arrow key
-        if(e.keyCode == 39) $('.next').click(); // right arrow key
-        if(e.keyCode == 27) $('#imageModal').fadeOut(); // ESC close
-    });
+		$(document).keydown(function(e) {
+			if (e.keyCode == 37) $('.prev').click(); // left arrow key
+			if (e.keyCode == 39) $('.next').click(); // right arrow key
+			if (e.keyCode == 27) $('#imageModal').fadeOut(); // ESC close
+		});
 
-});
+	});
 </script>
 
 

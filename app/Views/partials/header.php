@@ -275,6 +275,7 @@
 								</li>
 								<li><a href="#">Academic</a>
 									<ul class="dropdown">
+										<li><a href="<?= site_url('/admission') ?>">Admission</a></li>
 										<li><a href="<?= site_url('/rules_and_regulations') ?>">Rules and Regulations</a></li>
 										<li><a href="<?= site_url('/examination') ?>">Examination</a></li>
 										<li><a href="<?= site_url('/academic_outrich') ?>">Academic Outreach</a></li>
