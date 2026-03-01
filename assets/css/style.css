@@ -31,6 +31,11 @@ h6 {
   color: rebeccapurple;
 }
 
+.slider_height{
+  width: 100%;
+  height: 591px !important;
+}
+
 p {
   padding: 0;
   margin-bottom: 12px;

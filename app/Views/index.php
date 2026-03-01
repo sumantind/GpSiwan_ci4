@@ -15,67 +15,42 @@
 
 
 				<div class="item  active">
-					<img src="<?= base_url('Admin/slider/Basket_Ball1.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/Basket_Ball1.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Main_Building1.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider7.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_GH1.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider2.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_BH1.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider3.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/BasketBall_New.png') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider4.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Side_View_main_building.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider5.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Main_Building.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider6.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 
 				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_GH2.jpg') ?>" alt="" style="height:680px;">
-				</div>
-
-
-				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_GH.jpg') ?>" alt="" style="height:680px;">
-				</div>
-
-
-				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_BH.jpg') ?>" alt="" style="height:680px;">
-				</div>
-
-
-				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/Hostel_1.jpg') ?>" alt="" style="height:680px;">
-				</div>
-
-
-				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/WhatsApp_Image_2023-05-18_at_19_07_28.jpg') ?>" alt="" style="height:680px;">
-				</div>
-
-
-				<div class="item  ">
-					<img src="<?= base_url('Admin/slider/WhatsApp_Image_2023-05-18_at_19_05_17.jpg') ?>" alt="" style="height:680px;">
+					<img src="<?= base_url('Admin/slider/slider8.jpg') ?>" alt="" class="slider_height">
 				</div>
 
 			</div>
