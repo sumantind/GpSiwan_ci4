@@ -14,7 +14,7 @@
           </p>
           <p>
             At Government Polytechnic Siwan, we believe that education is not merely the acquisition of knowledge, but the development of character, competence, and confidence. In an era defined by rapid technological advancement and global interconnectedness, our responsibility extends beyond imparting technical skills. We strive to cultivate critical thinking, creativity, ethical values, and a lifelong passion for learning among our students.
-          </p>          
+          </p>
         </div>
       </div>
       <div class="row">
@@ -37,9 +37,9 @@
           <p>With best wishes,</p>
           <img src="<?= base_url('assets/img/faculty/paravenn_pachauri_sign.jpg') ?>">
           <address>
-            (Dr Praveen Pachauri)<br/>
-              &nbsp;Principal<br/>
-              &nbsp;Government Polytechnic Siwan
+            (Dr Praveen Pachauri)<br />
+            &nbsp;Principal<br />
+            &nbsp;Government Polytechnic Siwan
           </address>
         </div>
       </div>

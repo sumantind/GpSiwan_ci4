@@ -8,8 +8,8 @@
 	<meta content="" name="description">
 
 	<!-- Favicons -->
-	<link href="<?= base_url('assets/img/favicon.png') ?>" rel="icon">
-	<link href="<?= base_url('assets/img/apple-touch-icon.png') ?>" rel="apple-touch-icon">
+	<link href="<?= base_url('assets/img/favicon_GpSiwan.png') ?>" rel="icon">
+	<link href="<?= base_url('assets/img/GpSiwan-touch-icon.png') ?>" rel="GpSiwan-touch-icon">
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Ruda:400,900,700" rel="stylesheet">
