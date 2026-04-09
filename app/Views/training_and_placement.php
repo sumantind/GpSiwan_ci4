@@ -16,6 +16,98 @@
         <li>To arrange summer training and internships in industries/institution.</li>
         <li>To provide link between students, alumni and work place.</li>
       </ul>
+
+      <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+          <thead>
+            <tr>
+              <th colspan="3">Download Report Card of Session 2025-26</th>
+              <td>
+                <a href="<?= base_url('assets/document/report-25-26.pdf') ?>" download="report-25-26">
+                  <button type="button" class="btn btn-info btn-sm">
+                    <span class="glyphicon glyphicon-download-alt"></span>
+                    Download File
+                  </button>
+              </td>
+            </tr>
+            <tr>
+              <th>Sr.No</th>
+              <th>Company Name</th>
+              <th>Date</th>
+              <th>No of Students Selected</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1.</td>
+              <td>LUMAX</td>
+              <td><?php echo date("d-M-Y", strtotime("22 jan 2026")); ?></td>
+              <td>66</td>
+            </tr>
+            <tr>
+              <td>2.</td>
+              <td>HAIER</td>
+              <td><?php echo date("d-M-Y", strtotime("22 jan 2026")); ?></td>
+              <td>16</td>
+            </tr>
+            <tr>
+              <td>3.</td>
+              <td>TALBROS</td>
+              <td><?php echo date("d-M-Y", strtotime("22 jan 2026")); ?></td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>4.</td>
+              <td>ESCORTS KUBOTA LTD </td>
+              <td><?php echo date("M-Y", strtotime("january 2026")); ?></td>
+              <td>41</td>
+            </tr>
+            
+            <tr>
+              <td>5.</td>
+              <td>WABTEC</td>
+              <td><?php echo date("M-Y", strtotime("September 2025")); ?></td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>6.</td>
+              <td>MATE, BENGALURU</td>
+              <td><?php echo date("M-Y", strtotime("September 2025")); ?></td>
+              <td>111</td>
+            </tr>
+            <tr>
+              <td>7.</td>
+              <td>YOKOHAMA </td>
+              <td><?php echo date("M-Y", strtotime("September 2025")); ?></td>
+              <td>21</td>
+            </tr>
+            <tr>
+              <td>8.</td>
+              <td>REISE MITAS </td>
+              <td><?php echo date("M-Y", strtotime("September 2025")); ?></td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>9.</td>
+              <td>TATA MOTORS </td>
+              <td><?php echo date("M-Y", strtotime("September 2025")); ?></td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>10.</td>
+              <td>TATA PASSENGER ELECTRICAL MOBILITY </td>
+              <td><?php echo date("d-M-Y", strtotime("17 Dec 2025")); ?></td>
+              <td>26</td>
+            </tr>
+            <tr>
+              <td>11.</td>
+              <td>SOBHA LIMITED </td>
+              <td><?php echo date("d-M-Y", strtotime("22 Dec 2025")); ?></td>
+              <td>1</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
 </div>

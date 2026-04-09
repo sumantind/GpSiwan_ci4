@@ -14,6 +14,17 @@
                 <tbody>
                     <tr>
                         <td>1.</td>
+                        <td>Letter of Approval </td>
+                        <td> <a href="<?= base_url('assets/document/Letter_Of_Approval-2018-19.pdf') ?>" download="Letter_Of_Approval-2018-19">
+                                <button type="button" class="btn btn-info btn-sm">
+                                    <span class="glyphicon glyphicon-download-alt"></span>
+                                    Download File
+                                </button>
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
                         <td>AICTE Anti Ragging </td>
                         <td> <a href="<?= base_url('assets/document/AICTE_Anti_Ragging.pdf') ?>" download="AICTE_Anti_Ragging">
                                 <button type="button" class="btn btn-info btn-sm">
@@ -24,7 +35,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>2.</td>
+                        <td>3.</td>
                         <td>AICTE Anti Ragging Rules </td>
                         <td> <a href="<?= base_url('assets/document/AICTE_Anti_Ragging_Rules.pdf') ?>" download="AICTE_Anti_Ragging_Rules">
                                 <button type="button" class="btn btn-info btn-sm">

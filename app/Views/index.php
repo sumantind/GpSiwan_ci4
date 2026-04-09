@@ -78,39 +78,15 @@
 					<div class="col-xs-12">
 						<marquee direction="up" scrollamount="3" height="500" onmouseover="this.stop();" onmouseout="this.start();">
 							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>6. Chapter-06_GAD <a href="#" download>Download</a></li>
+								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2026-04-10 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>1. Job Fair 500+ Vacancies </li>
 							</ul>
 
 							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>5. POSH_GAD_BIH_2014 <a href="#" download>Download</a></li>
+								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2026-04-05 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>2. Drone-Workshop </li>
 							</ul>
 
 							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>4. Bihar Government Servants Rules <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>3. POSH_Rule_english and hindi <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>2. Sexual-Harassment-at-Workplace-Act_gazatte <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>1. SH Act_Hindi+MWCD <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-12-19 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>Internal Complaint committe for SHe-Box <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-08-12 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>NATS Recruitment Result 2025 <a href="#" download>Download</a></li>
-							</ul>
-
-							<ul class="news-demo-down-auto">
-								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2025-08-04 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>NATS Vacancy Walkin Interview on 07 Aug 2025 <a href="#" download>Download</a></li>
+								<li class="news-item"><span class="label" style="border:  solid 1px #ccc; color: #000;"> <i class="fa fa-clock-o"></i> 2026-03-18 </span><span class="label label-primary" style="background-color:#6e1a98">News</span><span class="label label-warning">Notice</span>3. Mental Health & Physical Fitness awareness Programme </li>
 							</ul>
 						</marquee>
 						<a href="<?= site_url('/') ?>">View All</a>
@@ -265,6 +241,8 @@
 								</div>
 							</div>
 						</div>
+					</div>
+					<div class="row">
 
 						<div class="col-sm-3 link-box" onclick="window.open('https:'+'//www.aicte-india.org/','_blank')" style="cursor:pointer;">
 							<div class="panel panel-default">
@@ -342,10 +320,10 @@
 
 										<li class="news-item" style="padding: 10px;">
 											<h4><i class="fa fa-angle-double-right"></i>
-												<a href="#">RFP for Purchase of Books </a>
+												<a href="assets/notification-doc/OfficeOrder.pdf" target="_blank">Office Order to appoint Nodal Officer NASSCOM future Skill prime Programme </a>
 											</h4>
 											<div style="font-size:11px;margin:2px;"> <span class="event-time">
-													<i class="fa fa-clock-o"></i>&nbsp;2019-04-17</span>
+													<i class="fa fa-clock-o"></i>&nbsp;2026-03-17</span>
 											</div>
 										</li>
 									</ul>
@@ -353,10 +331,10 @@
 
 										<li class="news-item" style="padding: 10px;">
 											<h4><i class="fa fa-angle-double-right"></i>
-												<a href="#">Fiber Optic Test and Equipment Measurement</a>
+												<a href="assets/notification-doc/OFFICER-ORDER.pdf" target="_blank"> Training under UNICEF's Passport to Earning (P2E) Programme</a>
 											</h4>
 											<div style="font-size:11px;margin:2px;"> <span class="event-time">
-													<i class="fa fa-clock-o"></i>&nbsp;2019-04-19</span>
+													<i class="fa fa-clock-o"></i>&nbsp;2026-03-17</span>
 											</div>
 										</li>
 									</ul>
@@ -364,10 +342,10 @@
 
 										<li class="news-item" style="padding: 10px;">
 											<h4><i class="fa fa-angle-double-right"></i>
-												<a href="#">Format of Course-Delivery-Progress-Report</a>
+												<a href="assets/notification-doc/PlacementDrive_11032026.pdf" target="_blank"> Tata Motors pool campus placement Drive</a>
 											</h4>
 											<div style="font-size:11px;margin:2px;"> <span class="event-time">
-													<i class="fa fa-clock-o"></i>&nbsp;2019-04-17</span>
+													<i class="fa fa-clock-o"></i>&nbsp;2026-03-17</span>
 											</div>
 										</li>
 									</ul>
@@ -380,30 +358,16 @@
 
 							<div role="tabpanel" class="tab-pane active" id="tenders" style="border: solid 1px #ddd;border-top: none;margin-top: -6px;">
 								<div style="width: 100%; height: 5px; background: #6e1a98"></div>
-								<ul class="newsbox">
+								<!-- <ul class="newsbox">
 									<li class="news-item" style="padding: 10px;">
 										<h4><i class="fa fa-angle-double-right"></i> <a href="#">Format of Course-Delivery-Progress-Report</a></h4>
 										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-25</span>
 										</div>
 									</li>
 
-								</ul>
-								<ul class="newsbox">
-									<li class="news-item" style="padding: 10px;">
-										<h4><i class="fa fa-angle-double-right"></i> <a href="#">List of Holiday's 2018 </a></h4>
-										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-27</span>
-										</div>
-									</li>
-
-								</ul>
-								<ul class="newsbox">
-									<li class="news-item" style="padding: 10px;">
-										<h4><i class="fa fa-angle-double-right"></i> <a href="#">Tender for Internet Service Provider</a></h4>
-										<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2024-07-04</span>
-										</div>
-									</li>
-
-								</ul>
+								</ul> -->
+								
+							
 								<a href="#" class="btn btn-default">View More <i class="fa fa-double-angle-right"></i></a>
 
 							</div>
@@ -415,18 +379,12 @@
 								<div style="padding: 15px;">
 									<ul class="newsbox">
 										<li class="news-item" style="padding: 10px;">
-											<h4><i class="fa fa-angle-double-right"></i> <a href="#">List of Holiday's 2018 </a></h4>
-											<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-24</span>
+											<h4><i class="fa fa-angle-double-right"></i> <a href="assets/notification-doc/TATA-PASSENGER-ELECTRICAL-MOBILIT-LTD-SELECTED-LIST.pdf" target="_blank">List of Student selected at Pool campus drive </a></h4>
+											<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2026-01-27</span>
 											</div>
 										</li>
 									</ul>
-									<ul class="newsbox">
-										<li class="news-item" style="padding: 10px;">
-											<h4><i class="fa fa-angle-double-right"></i> <a href="#">Fiber Optic Test and Equipment Measurement</a></h4>
-											<div style="font-size:11px;margin:2px;"> <span class="event-time"><i class="fa fa-clock-o"></i>&nbsp;2019-04-13</span>
-											</div>
-										</li>
-									</ul>
+									
 								</div>
 							</div>
 						</div>

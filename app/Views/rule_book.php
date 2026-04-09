@@ -14,6 +14,17 @@
                 <tbody>
                     <tr>
                         <td>1.</td>
+                        <td>DCECE Admission Rule Book </td>
+                        <td> <a href="<?= base_url('assets/document/DCECE_Admission_Rule_Book.pdf') ?>" download="DCECE_Admission_Rule_Book">
+                                <button type="button" class="btn btn-info btn-sm">
+                                    <span class="glyphicon glyphicon-download-alt"></span>
+                                    Download File
+                                </button>
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
                         <td>ACTS-01-16-02-2017 </td>
                         <td> <a href="<?= base_url('assets/document/ACTS-01-16-02-2017.pdf') ?>" download="ACTS-01-16-02-2017">
                                 <button type="button" class="btn btn-info btn-sm">
@@ -24,7 +35,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>2.</td>
+                        <td>3.</td>
                         <td>disciplinary rules Bihar Govt Colleges </td>
                         <td> <a href="<?= base_url('assets/document/disciplinary-rules-Bihar-Govt-Colleges.pdf') ?>" download="disciplinary-rules-Bihar-Govt-Colleges">
                                 <button type="button" class="btn btn-info btn-sm">
@@ -35,7 +46,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>3.</td>
+                        <td>4.</td>
                         <td>Faculty and Student Rule Book </td>
                         <td> <a href="<?= base_url('assets/document/Faculty-and-Student-Rule-Book.pdf') ?>" download="Faculty-and-Student-Rule-Book">
                                 <button type="button" class="btn btn-info btn-sm">
@@ -46,7 +57,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>4.</td>
+                        <td>5.</td>
                         <td>SBTE General Rules for Diploma Students </td>
                         <td> <a href="<?= base_url('assets/document/SBTE-General-Rules-for-Diploma-Students.pdf') ?>" download="SBTE-General-Rules-for-Diploma-Students">
                                 <button type="button" class="btn btn-info btn-sm">

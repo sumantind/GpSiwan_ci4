@@ -245,7 +245,7 @@
 						</li>
 						<li><a href="#">ALUMNI</a></li>
 						<li class="hidden-xs"><a href="<?= site_url('training_and_placement') ?>">Placement</a></li>
-						<li><a href="<?= site_url('aicte') ?>">AICTE</a></li>
+						<li><a href="<?= site_url('eoa') ?>">EOA</a></li>
 					</ul>
 				</div>
 			</div>
@@ -306,7 +306,7 @@
 										<li><a href="#">Wi Fi</a></li>
 									</ul>
 								</li>
-								<li><a href="#">Faculty</a></li>
+								<li><a href="<?= site_url('/faculty') ?>">Faculty</a></li>
 								<li><a href="<?= site_url('/training_and_placement') ?>">T &amp; P</a>
 									<!-- <ul class="dropdown">
                       <li><a href="<?= site_url('home/tranning') ?>">About us</a></li>
@@ -321,9 +321,9 @@
 								</li>
 								<li><a href="#">Gallery</a>
 									<ul class="dropdown">
-										<li><a href="#">Media Gallery</a></li>
-										<li><a href="#">Photo Gallery</a></li>
-										<li><a href="#">Video Gallery</a></li>
+										<li><a href="<?= site_url('media-gallery'); ?>">Media Gallery</a></li>
+										<li><a href="<?= site_url('photo-gallery'); ?>">Photo Gallery</a></li>
+										<li><a href="<?= site_url('video-gallery'); ?>">Video Gallery</a></li>
 									</ul>
 								</li>
 							</ul>

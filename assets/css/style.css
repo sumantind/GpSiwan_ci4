@@ -2925,6 +2925,12 @@ ul.news-demo-down-auto li, ul.newsbox li {
     max-height: 80%;
 }
 
+.modal-content-2 {
+    max-width: 100%;
+    max-height: 100%;
+   
+}
+
 .close-btn {
     position: absolute;
     top: 20px;

@@ -52,6 +52,26 @@ class Home extends BaseController
     {
         return view('aicte');
     }
+    public function eoa(): string
+    {
+        return view('eoa');
+    }
+    public function media_gallery(): string
+    {
+        return view('mediagallery');
+    }
+    public function photo_gallery(): string
+    {
+        return view('photogallery');
+    }
+    public function video_gallery(): string
+    {
+        return view('videogallery');
+    }
+
+    public function faculty() {
+        return view('faculty');
+    }
     public function rti(): string
     {
         return view('rti');
